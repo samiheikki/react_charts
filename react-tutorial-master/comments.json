@@ -1,27 +1,20 @@
 [
     {
-        "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "id": 1462781979026,
+        "x": "1",
+        "y": "2",
+        "z": "3"
     },
     {
-        "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "id": 1462783970598,
+        "x": "3",
+        "y": "4",
+        "z": "6"
     },
     {
-        "id": 1462184787394,
-        "author": "dsadas",
-        "text": "123321"
-    },
-    {
-        "id": 1462193956339,
-        "author": "asd",
-        "text": "sd2"
-    },
-    {
-        "id": 1462194032091,
-        "author": "sami",
-        "text": "samin kommentti"
+        "id": 1462784328479,
+        "x": "4",
+        "y": "5",
+        "z": "6"
     }
 ]

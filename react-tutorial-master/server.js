@@ -57,8 +57,9 @@ app.post('/api/comments', function(req, res) {
     // treat Date.now() as unique-enough for our purposes.
     var newComment = {
       id: Date.now(),
-      author: req.body.author,
-      text: req.body.text,
+      x: req.body.x,
+      y: req.body.y,
+      z: req.body.z
     };
     comments.push(newComment);
     fs.writeFile(COMMENTS_FILE, JSON.stringify(comments, null, 4), function(err) {

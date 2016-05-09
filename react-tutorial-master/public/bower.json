@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/samiheikki/react_charts",
+  "authors": [
+    "Sami Suo-Heikki <samiheikki@vaadin.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
